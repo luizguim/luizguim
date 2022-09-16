@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
   <h3 align="center">Let's connect and chat:</h3>
   
-[![Linkedin Badge](https://img.shields.io/badge/luizguim%20banh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizguim/)](https://www.linkedin.com/in/luizguim/)   [![Gmail Badge](https://img.shields.io/badge/luizguimj-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizguimj@gmail.com)](mailto:luizguimj@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/luizguim%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizguim/)](https://www.linkedin.com/in/luizguim/)   [![Gmail Badge](https://img.shields.io/badge/luizguim-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizguimj@gmail.com)](mailto:luizguimj@gmail.com) 
 
   
   <h3 align="center">Languages and Tools:</h3>
